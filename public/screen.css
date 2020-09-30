@@ -33,6 +33,10 @@ a:link {
   color: #24292e;
 }
 
+a:visited {
+  color: #24292e;
+}
+
 header > nav > div > :first-child {
   display: flex;
   align-items: baseline;
@@ -65,8 +69,7 @@ body > main {
 
 .octodex-image > a > img {
   height: 20rem;
-  border: 2rem;
-  border-color: grey;
+  border: 0.5rem solid lightgrey;
 }
 
 body > .octodex-box > footer {
