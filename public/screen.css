@@ -70,7 +70,7 @@ body > main {
 .octodex-image > a > img {
   height: 20rem;
   border: 0.1rem solid lightgrey;
-  border-radius: 5rem;
+  border-radius: 0.5rem;
 }
 
 body > .octodex-box > footer {
